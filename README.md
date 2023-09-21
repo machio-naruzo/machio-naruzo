@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-![image](https://github.com/machio-naruzo/machio-naruzo/assets/145677305/1fe63cef-a860-4315-9f32-668b1bb345d0)
-![image](https://github.com/machio-naruzo/machio-naruzo/assets/145677305/17c51992-2f10-4ce4-8412-b75777ca79cf)
-![image](https://github.com/machio-naruzo/machio-naruzo/assets/145677305/f8215b92-ac53-47a6-a9d7-878d6007c773)
+![image](https://img.shields.io/badge/iOS%20Developer-%F0%9F%93%B1-green)
+![image](https://img.shields.io/badge/Nutrition%20Geek-%F0%9F%A5%91-red)
+![image](https://img.shields.io/badge/Physiology%20Enthusiast-%F0%9F%A7%AC-orange)
 
 
 Welcome to my little corner of GitHub! 🚀 As a newbie iOS developer, I'm on an exciting journey to explore the world of app development, one line of code at a time. 📱
