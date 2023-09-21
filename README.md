@@ -11,3 +11,4 @@ Welcome to my little corner of GitHub! 🚀 As a newbie iOS developer, I'm on an
 
 But that's not all there is to me! When I'm not debugging or designing user interfaces, you'll find me diving into the fascinating realms of physiology and nutrition. 🧬 I'm passionate about understanding how our bodies work and how the food we eat affects us.
 
+[Check out my workout plan! 🏋️‍♂️](https://github.com/machio-naruzo/workout-plan)
